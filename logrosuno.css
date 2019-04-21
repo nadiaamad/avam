@@ -1,0 +1,59 @@
+.achi {
+  width: 135px;
+  height: 90px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.achi1 {
+  width: 25px;
+  height: 25px;
+  background-color: #000;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.achi2 {
+  width: 100px;
+  height: 25px;
+  background-color: #000;
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.achi3 {
+  width: 130px;
+  height: 50px;
+  background-color: #0a0a0a;
+  margin-top: 5px;
+  overflow: auto;
+}
+
+.achtext1 {
+  font-family: Arial;
+  font-size: 9px;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+  color: #2a3340;
+  margin: 6px;
+}
+
+.achtext2 {
+  font-family: Roboto;
+  font-size: 9px;
+  text-align: justify;
+  color: grey;
+  line-height: 120%;
+  padding: 10px;
+}
+
+.achtext3 {
+  font-family: Arial;
+  font-size: 9px;
+  font-weight: 800;
+  text-align: center;
+  color: #bfbfbf;
+  margin: 6px;
+}
