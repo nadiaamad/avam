@@ -1,0 +1,28 @@
+#jackc {
+  width: 298px;
+  height: 198px;
+  margin: auto;
+  padding: 1px;
+  outline: 1px solid #5f5f5f;
+  outline-offset: -5px;
+}
+
+.jackc2 {
+     width: 290px; 
+     height: 30px; 
+     background: #aaa;
+     margin-left: 4px;
+     margin-top: 164px;
+     opacity: 0.6;
+}
+
+.jackctxt {
+  font-family: Arial;
+  font-size: 8px;
+  padding: 12px 0px 0px 25px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+  text-align: justify;
+  margin-top: 5px;
+}
