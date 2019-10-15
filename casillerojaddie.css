@@ -1,0 +1,58 @@
+.cajeta0 {
+  width: 500px;
+  height: 500px;
+  background-color: #040404;
+  outline: 1px solid #000;
+  outline-offset: -15px;
+  margin: auto;
+}
+
+.cajeta1 {
+  height: 0;
+  width: 0;
+  border-left: 250px solid rgba(12,12,12,0.3);
+  border-right: 250px solid transparent;
+  border-bottom: 250px solid rgba(12,12,12,0.3);
+  border-top: 250px solid transparent;
+  margin: auto;
+}
+
+.cajeta2 {
+  width: 80px;
+  height: 80px;
+  outline: 8px solid #090909;
+  margin: -200px 0px 0px 10px;
+}
+
+.cajeta3 {
+  width: 80px;
+  height: 80px;
+  outline: 8px solid #090909;
+  margin: -80px 0px 0px 120px;
+}
+
+.cajeta4 {
+  height: 0;
+  width: 0;
+  border-left: 40px solid rgba(12,12,12,0.2);
+  border-right: 40px solid transparent;
+  border-bottom: 40px solid rgba(12,12,12,0.2);
+  border-top: 40px solid transparent;
+  margin: auto;
+}
+
+.texteto1 {
+  font-family: Ubuntu;
+  font-size: 11px;
+  color: #666;
+  margin: 80px -180px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.texteto2 {
+  font-family: Ubuntu;
+  font-size: 11px;
+  color: #555;
+  margin: -60px -160px;
+}
