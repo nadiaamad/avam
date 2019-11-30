@@ -58,6 +58,7 @@
   outline: 1px dotted #191919;
   margin: auto;
   margin-top: -5px;
+  overflow: auto;
 }
 
 .jebustres {
@@ -65,5 +66,4 @@
   color: #555;
   font-size: 10px;
   padding: 20px;
-  overflow: auto;
 }
